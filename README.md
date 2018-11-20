@@ -15,7 +15,7 @@ It is for **EDUCATIONAL PURPOSES** only.
 
 3. N-User License Keys can be generated where 1 &le; N &le; 1000
 
-You **DON'T NEED MSVCRT** to run this program
+4. **MSVCRT Not Required**
 
 ## How to assemble
 Here are the steps for Assembling
