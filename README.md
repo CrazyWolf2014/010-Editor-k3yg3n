@@ -1,8 +1,7 @@
 # 010 Editor KeyGen
 
 A License Key generator for [010 Editor](http://www.sweetscape.com/download/010editor/).  
-Written in x86 Assembly (Windows only)  
-Written in Python 2.7 (any OS)
+> Written in x86 Assembly (Windows only) and Python 2.7 (any OS)
 
 ## Warning
 
