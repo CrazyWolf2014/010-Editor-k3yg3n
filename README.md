@@ -39,4 +39,6 @@ It is for **EDUCATIONAL PURPOSES** only.
 
 ## Screenshot
 
+[![asciicast](https://asciinema.org/a/cJpDZjx9cI0abpdh96Bvl3jvt.svg)](https://asciinema.org/a/cJpDZjx9cI0abpdh96Bvl3jvt)  
+
 ![Screenshot](screenshot.gif)
