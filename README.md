@@ -17,22 +17,24 @@ It is for **EDUCATIONAL PURPOSES** only.
 
 4. **MSVCRT Not Required**
 
-## How to assemble
-Here are the steps for Assembling
+## How to Execute
 
-1. Download [Flat Assembler](http://flatassembler.net/download.php)
+*  If you want to assemble the assembly language program (Only for Windows)
 
-   or
-   
-   If you are on Linux, you may use `sudo apt-get install fasm`
+   ### How to assemble
+   Here are the steps for Assembling
 
-2. Assemble using the following command
+   1. Download [Flat Assembler](http://flatassembler.net/download.php)
 
-   `fasm main.asm`
+      or
 
-The current support is for Windows only.
+      If you are on Linux, you may use `sudo apt-get install fasm`
 
-I'll be adding a linux executable soon
+   2. Assemble using the following command
+
+      `fasm main.asm`
+ 
+ * Or you may execute the python script, **keygen.py**   (For any OS)
 
 ## Screenshot
 
